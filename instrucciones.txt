@@ -1,0 +1,15 @@
+Instrucciones: 
+
+* Descomprimir el archivo
+* Luego compilar el archivo C con este comando en el root del sistema: "gcc main.c -lm -o main"
+* Luego hay que ejecutar el archivo ejecutable de C, que seria "./main"
+
+--> Eso va a generar un monton de CSV, esos CSV son los que se consumen en Python.
+
+Eso seria, las respuestas del reporte estan en el archivo HTML, que se llama: RespuestaPreguntas.html
+
+El archivo tambien va a estar en formato PDF en el archivo RESPUESTAS.PDF
+
+
+
+
